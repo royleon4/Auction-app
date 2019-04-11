@@ -1,6 +1,5 @@
 # auction-app
-
-> assignment2 
+ 
 > A simple front end web site that allows users to register and sell their products online with a bidding system
 
 ## Build Setup
